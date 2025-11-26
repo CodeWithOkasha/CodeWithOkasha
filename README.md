@@ -5,7 +5,7 @@
 🚀 Currently practicing **DOM manipulation, loops, functions, and arrays**  
 🎯 Goal: Build real-world web applications and grow as a professional Front-End developer  
 
- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/muhammad-o-a89992201) | [Email](mailto:okashakhan461@gmail.com)
+ 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/muhammad-o-a89992201) | Email: okashakhan461@gmail.com
 
 
  
